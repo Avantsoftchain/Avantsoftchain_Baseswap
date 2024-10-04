@@ -43,13 +43,6 @@ There are additional requests for price chart and search that are fired when use
 
 ## Installation
 
-1. Clone the repository
-
-```bash
-git clone https://bitbucket.org/cryptowhales-test/cryptoswap-test/src/main/
-```
-2. Go to the project directory and install dependencies for both the client and server
-
 ```bash
 cd client
 npm install
@@ -59,8 +52,6 @@ npm install
 cd ..
 npm install
 ```
-
-3. Start the project
 
 ```bash
 npm start
